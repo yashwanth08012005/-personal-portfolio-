@@ -20,7 +20,7 @@ This is my personal portfolio website, built using **React + Vite**, and designe
 - `public` → Static files
 
 ## 🌐 Live Demo
-[View Portfolio](https://yashwanth08012005.github.io/-personal-portfolio-/)
+[View Portfolio](https://personal-portfolio-rnm7hs9pq-yashwanth-s-projects2.vercel.app/)
 
 ## 📧 Contact
 - Email: gogikaryashwanth2005@gmail.com
